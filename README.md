@@ -12,7 +12,7 @@
 ## 📥 Setup
 #### 1、Clone this repo
 
-- `$ git clone https://github.com/SoftEngineerTeam/VulDecgre.git`
+- `$ git clone https://github.com/weiwei129qw/BPTRM.git`
 
 #### 2、Install Prerequisites
 
