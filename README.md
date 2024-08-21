@@ -24,7 +24,7 @@
 
 
 #### 4、 Load trained model and predict
-- '`$ python.Model.py' 
+-  `$ python.Model.py`
 
 ## 🚨 Guide
 
