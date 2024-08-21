@@ -14,16 +14,16 @@
 
 - `$ git clone https://github.com/weiwei129qw/BPTRM.git`
 
-#### 2、Install Prerequisites
+#### 2、Data process
 
-- `$ pip install -r requirements.txt`
+- `$ dispsoal files`
 
-#### 3、 Load trained model and predict
+#### 3、 Input 
 
-- `$ python Model.py`
+- `$ python packagecomplex.py`
 
 
-#### 4、 Output
+#### 4、 Load trained model and predict
 - 'python.Model.py' 
 
 ## 🚨 Guide
@@ -36,7 +36,7 @@
 
 ## 🤯 Dataset
 
-To investigate the effectiveness of VulDecgre in vulnerability detection, we adopt three open-source vulnerability datasets and a self-collected dataset from these papers:
+To investigate the effectiveness of VulDecgre in vulnerability detection, we adopt two open-source vulnerability datasets: 
 Data.part.01-11.rar
 
 **References**:
